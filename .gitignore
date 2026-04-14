@@ -1,0 +1,15 @@
+# Jekyll generated output and caches
+_site/
+.jekyll-cache/
+.jekyll-metadata
+.sass-cache/
+
+# Docs subproject Jekyll artifacts
+docs/_site/
+docs/.jekyll-cache/
+docs/.jekyll-metadata
+docs/.sass-cache/
+
+# Bundler local dependencies
+vendor/bundle/
+docs/vendor/bundle/
